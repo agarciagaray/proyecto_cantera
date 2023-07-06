@@ -1,0 +1,1 @@
+INSERT INTO `countries` (`id`,`pais_codigo`, `pais_nombre`, `pais_estado`) VALUES (1,'COL','COLOMBIA','A');
